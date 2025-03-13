@@ -1,7 +1,10 @@
+import BarChart from "./components/BarChart"
+
 const Home = () => {
+  
   return (
     <div>
-      <h1>Home</h1>
+      <BarChart />
     </div>
   )
 }
